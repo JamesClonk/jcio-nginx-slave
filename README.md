@@ -1,2 +1,2 @@
-# jcio-nginx-slave
+# jcio-docker-nginx
 nginx for jcio slave
